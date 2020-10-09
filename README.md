@@ -1,4 +1,3 @@
-
 # Camera-Preview-Ionic-Angular
  A camera application for android and ios smartphones with Ionic / Angular using the Camera Preview plugin
  
@@ -30,13 +29,13 @@ Thi project require:
 ```sh
 npm install npm@latest -g
 ```
-* Android
+#### Android
 
 if you use android:
 
 * [Android SDK & NDK](https://developer.android.com/studio)
 
-* iOS
+#### iOS
 
 if you use iOS:
 
@@ -58,9 +57,15 @@ npm install
 npm install
 ```
 
+<!-- LICENSE -->
+## License
 
+Distributed under the Apche License. See `LICENSE` for more information.
 
+<!-- CONTACT -->
+## Contact
 
+Francesco182g - [Youtube](https://www.youtube.com/channel/UCWkHaKX3HwNzBiA2Fqo2dgQ/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 
 
 
