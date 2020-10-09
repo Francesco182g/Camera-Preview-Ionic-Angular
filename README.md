@@ -1,5 +1,27 @@
-# Camera-Preview-Ionic-Angular
- A camera application for android and ios smartphones with Ionic / Angular using the Camera Preview plugin
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular">
+    <img src="https://img.youtube.com/vi/eIubo9inP2o/0.jpg" alt="Camera" width="80" height="80">
+  </a>
+
+  <h3 align="center"> Camera-Preview-Ionic-Angular</h3>
+
+  <p align="center">
+     A camera application for android and ios smartphones with Ionic / Angular using the Camera Preview plugin
+    <br />
+    <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular/tree/main/src"><strong>Explore the code»</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular/blob/main/Walkthrough.md">View Walktrought</a>
+    ·
+    <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular/issues">Request Information or Feature</a>
+  </p>
+</p>
+
+
  
  <!-- ABOUT THE PROJECT -->
 ## About The Project
